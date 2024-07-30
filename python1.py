@@ -1,0 +1,1 @@
+print("life is about making an impact,not making an income") 
